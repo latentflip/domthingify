@@ -1,0 +1,21 @@
+{
+  "name": "domthingify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "domthing": "0.0.5"
+  },
+  "dependencies": {
+    "domthing": "0.0.5",
+    "through": "^2.3.4"
+  },
+  "devDependencies": {
+    "beefy": "^2.0.1"
+  }
+}
