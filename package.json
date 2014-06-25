@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "domthing": "0.0.5"
+    "domthing": "^0.1.0"
   },
   "dependencies": {
-    "domthing": "0.0.5",
+    "domthing": "^0.1.0",
     "through": "^2.3.4"
   },
   "devDependencies": {
