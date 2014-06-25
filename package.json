@@ -1,21 +1,20 @@
 {
   "name": "domthingify",
   "version": "0.1.0",
-  "description": "",
-  "main": "domthingify.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "peerDependencies": {
-    "domthing": "^0.1.0"
-  },
+  "author": "Philip Roberts",
   "dependencies": {
     "domthing": "^0.1.0",
     "through": "^2.3.4"
   },
   "devDependencies": {
     "beefy": "^2.0.1"
+  },
+  "license": "MIT",
+  "main": "domthingify.js",
+  "peerDependencies": {
+    "domthing": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
