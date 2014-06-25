@@ -1,6 +1,6 @@
 {
   "name": "domthingify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Philip Roberts",
   "dependencies": {
     "domthing": "^0.1.0",
