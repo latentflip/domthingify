@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "domthing": "^0.1.0",
-    "through": "^2.3.4"
+    "through": "^2.3.4",
+    "static-module": "~1.0.0"
   },
   "devDependencies": {
     "beefy": "^2.0.1"
