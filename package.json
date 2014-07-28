@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "keywords": [
+    "browserify",
+    "browserify-transform"
+  ],
   "peerDependencies": {
     "domthing": "^0.1.0"
   },
