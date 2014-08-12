@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "author": "Philip Roberts",
   "dependencies": {
-    "domthing": "^0.1.0",
+    "domthing": "*",
     "through": "^2.3.4"
   },
   "devDependencies": {
@@ -12,7 +12,7 @@
   "license": "MIT",
   "main": "domthingify.js",
   "peerDependencies": {
-    "domthing": "^0.1.0"
+    "domthing": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
