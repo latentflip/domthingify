@@ -9,6 +9,10 @@
   "devDependencies": {
     "beefy": "^2.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latentflip/domthingify"
+  },
   "license": "MIT",
   "main": "domthingify.js",
   "peerDependencies": {
