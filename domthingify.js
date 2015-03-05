@@ -2,7 +2,7 @@ var through = require('through');
 var domthing = require('domthing');
 
 module.exports = function (fileName) {
-    if (!/\.dom$/i.test(fileName)) {
+    if (!/\.dom$|\.html$/i.test(fileName)) {
         return through();
     }
 
