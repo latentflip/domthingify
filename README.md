@@ -18,6 +18,14 @@ var MyView = View.extend({
 });
 ```
 
+It can also work with a traditionnal `.html`extension:
+
+```javascript
+var MyView = View.extend({
+    template: require('./path/to/template.html')
+});
+```
+
 Add `domthingify` to your browserify transform list.
 
 * With browserify: `browserify app.js -o bundle.js -t domthingify`
